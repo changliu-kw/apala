@@ -1,5 +1,8 @@
 
 public class OMG {
 
-		//bad
+		public void test(){
+			//bad
+		}
+
 }
