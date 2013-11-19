@@ -2,9 +2,11 @@
 public class Hello {
 
 	public void Greeting(){
-		public void Morining(){
-		
-		}
 		
 	}
+	
+	public void Morining(){
+		
+	}
+
 }
